@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "endOfLine": "lf",
   "semi": false,
@@ -5,3 +6,12 @@
   "tabWidth": 2,
   "trailingComma": "es5"
 }
+=======
+{
+  "endOfLine": "lf",
+  "semi": false,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "es5"
+}
+>>>>>>> ada1ee433e782500ca94a9b7884bd998a5e5f422
