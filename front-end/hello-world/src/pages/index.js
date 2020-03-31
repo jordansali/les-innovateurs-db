@@ -5,5 +5,6 @@ export default () => (
         <h1>Testing branch!</h1>
         <div>Hello world!!! People...! This is a test site built using Gatsby. Test of change</div>
         <div>This is a new feature!</div>
+        <div>This is another new feature!</div>
     </div>
 )
