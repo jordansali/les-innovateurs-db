@@ -76,7 +76,7 @@ namespace CategoryApi.Controllers
             {
                 if (category == null)
                 {
-                    return NotFound("Object not found, please check request");
+                    return NotFound("Custom: Object not found, please check request");
                 }
 
                 if (id != category.CategoryId)
